@@ -1,0 +1,1 @@
+# BSP_BOARD_Nrf51822_microbit
